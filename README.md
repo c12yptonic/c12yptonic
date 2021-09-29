@@ -10,6 +10,11 @@
 
 🗞 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Sunshine 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/sunshine21)
+- [PBJar 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/pbjar21)
+- [CSAW 2021 Qualification round](https://c12yptonic.github.io/ctf-writeups/ctfs/csaw21)
+- [FWord 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/fword21)
+- [GrabCON 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/grabcon21)
 <!-- BLOG-POST-LIST:END -->  
 
 
