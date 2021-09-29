@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/c12yptonic/c12yptonic/main/assets/images/cryptonic-asciiart.png" height="50px">
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 &nbsp;I’m currently working on all things security :wink:
