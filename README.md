@@ -8,7 +8,7 @@
 - ⚡ &nbsp;Fun fact: I :heart: playing 🏓
 
 
-🗞 &nbsp;**Latest Blog Posts**
+🗞 &nbsp;**Latest CTF writeups**
 <!-- BLOG-POST-LIST:START -->
 - [Sunshine 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/sunshine21)
 - [PBJar 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/pbjar21)
