@@ -4,15 +4,14 @@
 - 🌱 &nbsp;I’m currently learning to Pwn
 - 💬 &nbsp;Ask me about anything related to Javascript/Python/Java/Pwntools
 - 📫 &nbsp;How to reach me: [@c12yptonic](https://twitter.com/c12yptonic)
+- 👨‍💻 &nbsp;Read my CTF writeups at [c12ytonic.github.io/ctf-writeups](https://c12yptonic.github.io/ctf-writeups)
 - ⚡ &nbsp;Fun fact: I :heart: playing 🏓
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/c12yptonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c12yptonic" height="30" width="40" /></a>
+<a href="https://twitter.com/c12yptonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c12yptonic" height="24" width="24" /></a>
+<a href="https://ctftime.org/user/117599" target="blank"><img align="center" src="https://ctftime.org/favicon.png" alt="c12yptonic" height="24" width="24" /></a>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
