@@ -12,4 +12,4 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
-                feed_list: "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fc12yptonic.github.io%2Fctf-writeups%2Fctfs&item=%23main-content+tbody+tr&item_title=td%5B2%5D+a&item_url=td%5B4%5D+a&max=5&order=document&guid=0"
+                feed_list: "https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fc12yptonic.github.io%2Fctf-writeups%2Fctfs&item=%23main-content+tbody+tr&item_title=td%5B2%5D+a&item_url=td%5B4%5D+a&item_date=td%5B5%5D&max=5&order=document&guid=0"
