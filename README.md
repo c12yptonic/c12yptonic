@@ -10,11 +10,11 @@
 
 🗞 &nbsp;**Latest CTF writeups**
 <!-- BLOG-POST-LIST:START -->
+- [DconstruCtf 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/deconstructf21)
+- [Tamil CTF 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/tamilctf21)
+- [Downunder 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/downunder21)
 - [Sunshine 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/sunshine21)
 - [PBJar 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/pbjar21)
-- [CSAW 2021 Qualification round](https://c12yptonic.github.io/ctf-writeups/ctfs/csaw21)
-- [FWord 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/fword21)
-- [GrabCON 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/grabcon21)
 <!-- BLOG-POST-LIST:END -->  
 
 
