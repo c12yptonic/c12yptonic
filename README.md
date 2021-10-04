@@ -17,6 +17,9 @@
 - [PBJar 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/pbjar21)
 <!-- BLOG-POST-LIST:END -->  
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=c12yptonic&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)  
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
