@@ -17,15 +17,15 @@
 - [PBJar 2021](https://c12yptonic.github.io/ctf-writeups/ctfs/pbjar21)
 <!-- BLOG-POST-LIST:END -->  
 
-📊 &nbsp;**This week I spent my time on**
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=c12yptonic&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)  
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/c12yptonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c12yptonic" height="24" width="24" /></a>
 <a href="https://ctftime.org/user/117599" target="blank"><img align="center" src="https://ctftime.org/favicon.png" alt="c12yptonic" height="24" width="24" /></a>
-
+  
+  
+📊 &nbsp;**This week I spent my time on**  
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=c12yptonic&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)  
+  
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
